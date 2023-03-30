@@ -1,3 +1,4 @@
+SAMPE 2023 - April 17th - Seattle, WA
 When Data-efficient Machine Learning Comes to the Rescue: An AI-based Optimization Framework for Advanced Manufacturing
 
 Slides:
