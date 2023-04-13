@@ -1,6 +1,6 @@
 # SAMPE 2023 Tutorial: When Data-efficient Machine Learning Comes to the Rescue: An AI-based Optimization Framework for Advanced Manufacturing
 
-Welcome to the repository for the tutorial "When Data-efficient Machine Learning Comes to the Rescue: An AI-based Optimization Framework for Advanced Manufacturing" as part of SAMPE 2023 conference. This tutorial aims at developing a transfer learning framework for advanced composites manufacturing wit data paucity.
+Welcome to the repository for the tutorial "When Data-efficient Machine Learning Comes to the Rescue: An AI-based Optimization Framework for Advanced Manufacturing" as part of [SAMPE 2023](https://www.sampeamerica.org/tutorials) conference. This tutorial aims at developing a transfer learning framework for advanced composites manufacturing wit data paucity.
 
 ## Getting Started
 
