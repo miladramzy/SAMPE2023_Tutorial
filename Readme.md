@@ -11,8 +11,11 @@ To get started, you can either use the link to Colab at the top of the .ipynb fi
 This repository contains the following files:
 
 **README.md**: The file you are currently reading.
+
 **tutorial.ipynb**: The Jupyter notebook for the tutorial session.
+
 **tutorial.pdf**: The slides for the tutorial session
+
 **data/**: A directory containing any necessary data for the tutorial.
 
 ## License
