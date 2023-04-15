@@ -20,6 +20,6 @@ This repository contains the following files:
 
 ## License
 
-This tutorial is released under the <mit>, which can be found in the LICENSE file.
+This tutorial is released under the mit licence, which can be found in the LICENSE file.
 
 We hope you find this tutorial informative and enjoyable! If you find any issues or errors in the tutorial materials or have suggestions for improvements, please feel free to create an issue or pull request.
