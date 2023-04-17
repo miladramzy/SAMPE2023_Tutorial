@@ -12,9 +12,9 @@ This repository contains the following files:
 
 **README.md**: The file you are currently reading.
 
-**tutorial.ipynb**: The Jupyter notebook for the tutorial session.
+**SAMPE2023_TL.ipynb**: The Jupyter notebook for the tutorial session.
 
-**tutorial.pdf**: The slides for the tutorial session
+**SAMPE2023_TL.pdf**: The slides for the tutorial session
 
 **data/**: A directory containing any necessary data for the tutorial.
 
